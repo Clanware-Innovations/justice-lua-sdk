@@ -1,5 +1,5 @@
 [package]
-name = "cosigyn/justice-sdk"
+name = "Clanware-Innovations/justice-sdk"
 description = "A Roblox SDK for the Clanware Justice API."
 license="MIT"
 version = "1.1.1"

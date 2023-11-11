@@ -9,7 +9,7 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/Clanware-Innovations/justice-sdk.git"
+		"url": "git+https://github.com/Clanware-Innovations/justice-lua-sdk.git"
 	},
 	"author": "cosigyn",
 	"license": "MIT",
