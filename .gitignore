@@ -1,0 +1,6 @@
+/Packages
+/DevPackages
+.env
+/.vscode
+sourcemap.json
+pack.rbxm

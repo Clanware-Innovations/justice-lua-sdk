@@ -1,0 +1,25 @@
+{
+	"name": "@rbxts/clanware-justice-sdk",
+	"version": "1.1.1",
+	"description": "Clanware Justice API SDK for Roblox",
+	"main": "lib/init.lua",
+	"keywords": [
+		"clanware",
+		"sdk"
+	],
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Clanware-Innovations/justice-sdk.git"
+	},
+	"author": "cosigyn",
+	"license": "MIT",
+	"types": "lib/index.d.ts",
+	"files": [
+		"lib",
+		"!**/*.spec.lua",
+		"!**/*.tsbuildinfo"
+	],
+	"publishConfig": {
+		"access": "public"
+	}
+}

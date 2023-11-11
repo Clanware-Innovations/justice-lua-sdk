@@ -1,0 +1,12 @@
+{
+  "name": "justice-sdk",
+  "tree": {
+    "$path": "Include/Linking.lua",
+    "Packages": {
+      "$path": "Packages",
+      "justice-sdk": {
+          "$path": "lib"
+      }        
+    }
+  }
+}

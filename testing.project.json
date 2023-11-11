@@ -1,0 +1,28 @@
+{
+  "name": "justice-sdk testing",
+  "emitLegacyScripts": false,
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "justice-sdk": {
+        "$path": "Include/Linking.lua",
+        "Packages": {
+          "$path": "Packages",
+          "justice-sdk": {
+            "$path": "lib"
+          }
+        },
+        "DevPackages": {
+          "$path": "DevPackages"
+        }
+      }
+    },
+    "ServerScriptService": {
+      "$className": "ServerScriptService",
+      "Server": {
+        "$path": "testing"
+      }
+    }
+  }
+}
